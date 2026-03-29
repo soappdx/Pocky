@@ -39,5 +39,5 @@ This project is licensed under the GNU GPLv3. See [LICENSE.md](https://github.co
 
 # Credits
 
-* koi (me!) - Pocky
+* yuni (me!) - Pocky
 * BernardoGiordano - Checkpoint

@@ -4,7 +4,7 @@ A 3DS mod manager built on top of Checkpoint v1.0.0 written in C++.
 
 Literally only made because I wanna be able to switch mods that I use without using ftpd to connect to my laptop every damn second.
 
-This is still a heavy work in progress!
+PROJECT IS NOW ON HOLD UNTIL I GET A NEW 3DS.
 
 # How to use it
 
@@ -39,5 +39,5 @@ This project is licensed under the GNU GPLv3. See [LICENSE.md](https://github.co
 
 # Credits
 
-* yuni (me!) - Pocky
+* soapdx (me!) - Pocky
 * BernardoGiordano - Checkpoint
